@@ -1,3 +1,8 @@
+### Hi! 👋
+
+<img src="./assets/banner.jpg" alt="Banner about Arturs Smirnovs">
+
+
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/prantaDebaNath/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranta-deba/)
