@@ -2,35 +2,52 @@
 
 <img src="./assets/banner.jpg" alt="Banner about Arturs Smirnovs">
 
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/pranta-deba/" title="LinkedIn Profile"><img width="20" src="./assets/linkedin.png"> LinkedIn</a></code>
+  <code><a href="https://www.facebook.com/prantaDebaNath" title="Facebook Profile"><img width="20" src="./assets/facebook.png"> Facebook</a></code>
+</h5>
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="C" height="25" src="./assets//c.svg"></code>
+  <code><img title="Javascript" height="25" src="./assets//javascript.svg"></code>
+  <code><img title="React" height="25" src="./assets/react-original.svg"></code>
+  <code><img title="Tailwind CSS" height="25" src="./assets/tailwind.png"></code>
+  <code><img title="Bootstrap" height="25" src="./assets/bootstrap.svg"></code>
+  <code><img title="Next JS" height="25" src="./assets/next.jpeg"></code>
+  <code><img title="Firebase" height="25" src="./assets/firebase.png"></code>
+  <code><img title="HTML5" height="25" src="./assets/html5.svg"></code>
+  <code><img title="Stripe" height="25" src="./assets/css.svg"></code>
+  <code><img title="Mongodb" height="25" src="./assets/mongo.png"></code>
+  <code><img title="Node JS" height="25" src="./assets/node.png"></code>
+  <code><img title="Express JS" height="25" src="./assets/express.png"></code>
+  <code><img title="NPM" height="25" src="./assets/npm.svg"></code>
+  <code><img title="PHP" height="25" src="./assets/php.svg"></code>
+  <code><img title="MySQL" height="25" src="./assets/mysql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="./assets/vscode.png"></code>
+  <code><img title="Stack Overflow" height="25" src="./assets/stackoverflow.svg"></code>
+</p>
+<hr>
 
-## 🌐 Socials:
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=pranta-deba&theme=react&border=61dafb&hide_border=true" alt="pranta-deba" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=pranta-deba&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranta-deba&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/prantaDebaNath/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranta-deba/)
-
-# 💻 Tech Stack:
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=pranta-deba&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pranta-deba&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranta-deba&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=pranta-deba&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=pranta-deba&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranta-deba&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
