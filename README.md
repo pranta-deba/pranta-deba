@@ -18,7 +18,7 @@
   <code><img title="Next JS" height="25" src="./assets/next.jpeg"></code>
   <code><img title="Firebase" height="25" src="./assets/firebase.png"></code>
   <code><img title="HTML5" height="25" src="./assets/html5.svg"></code>
-  <code><img title="CZS" height="25" src="./assets/css.svg"></code>
+  <code><img title="CSS" height="25" src="./assets/css.svg"></code>
   <code><img title="Mongodb" height="25" src="./assets/mongo.png"></code>
   <code><img title="Node JS" height="25" src="./assets/node.png"></code>
   <code><img title="Express JS" height="25" src="./assets/express.png"></code>
